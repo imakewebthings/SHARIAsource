@@ -9,7 +9,7 @@ gem 'carrierwave', '~> 1.2'
 gem 'select2-rails', '~> 4.0'
 gem 'closure_tree', '~> 6.6'
 gem 'coffee-rails', '~> 4.2'
-gem 'devise', '~> 4.4'
+gem 'devise', '~> 4.7'
 gem 'foreman', '~> 0.74'
 
 #see unmerged pull request https://github.com/zurb/foundation-sites/pull/8878
